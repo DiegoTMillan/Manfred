@@ -1,0 +1,413 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Diego",
+      "surnames": "Tapia",
+      "title": "Junior Full Stack Web Developer. Finished the Codespace Academy Bootcamp in July 2022. #FullStack #WebDevelopment #Bootstrap #React #Nodejs #Javascript",
+      "description": "Junior Full Stack Web Developer. I finished the Codespace Academy Bootcamp in July 2022. In it I had the opportunity to learn HTML, CSS, Bootstrap, JS, React, php, symfony, node.js, mysql, mongodb, docker.",
+      "location": {
+        "notes": "Malaga, Spain"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/DiegoTMillan"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.linkedin.com/in/diego-tapia-millan"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I had worked as a physiotherapist, as a seller, basketball referee or radio contributor",
+        "fact": "in addition, I have knowledge about health and safety.\n\nfurthermore, I love board games, sports and of course a great book for reading."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "COPE",
+          "image": {
+            "alt": "COPE.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/3e8f31e4-a482-4a5f-bc79-c9893bb67785_cope.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Radio Contributor",
+            "startDate": "2016-09-01",
+            "challenges": [
+              {
+                "description": "Preparation and narration of current content on digital platforms, video games, technology, science... It is every Friday for ten minutes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ayuntamiento Estepona",
+          "image": {
+            "alt": "Ayuntamiento_de_Estepona_Logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/ef14181f-0db5-483c-94cb-b4d1f3e1dca4_ayuntamiento_de_este.jpg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Physiotherapist",
+            "startDate": "2017-02-01",
+            "finishDate": "2017-08-01",
+            "challenges": [
+              {
+                "description": "I work as a physiotherapist in the Alzheimer's Association and in the geriatric care service. Home visits are made to care for patients with advanced degenerative diseases. In addition to treatment, families are supported in the hard process of caring for a sick relative."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Federación Andaluza Baloncesto",
+          "image": {
+            "alt": "descarga (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/fc3ab676-03a9-4399-b261-aea0e69f408c_descarga-(1).png"
+          },
+          "URL": "https://www.andaluzabaloncesto.org"
+        },
+        "roles": [
+          {
+            "name": "Basketball referee",
+            "startDate": "2007-09-01",
+            "finishDate": "2017-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "4Body",
+          "image": {
+            "alt": "logo_62.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/c8220e5e-358d-496c-9911-5b9e980cc07d_logo_62.jpg"
+          },
+          "URL": "http://www.4body.es"
+        },
+        "roles": [
+          {
+            "name": "Physiotherapist",
+            "startDate": "2007-06-01",
+            "finishDate": "2016-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "El Corte Inglés",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/e7017f5e-659a-4322-8130-103f52c9f598_descarga.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Seller",
+            "startDate": "2005-12-01",
+            "finishDate": "2007-06-01",
+            "challenges": [
+              {
+                "description": "During successive holiday periods as a student I worked as a salesperson in different departments of El Corte Inglés. I was in charge of customer service and sales, answering queries and answering the phone."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "BG4U",
+          "description": "This is my final project for the Code Space Bootcamp. It is a website about board games. You can see the latest news, meet friends with the same games or see which are the most shared board games.",
+          "URL": "https://github.com/DiegoTMillan/Bg4Y-frontend"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-06-01",
+            "competences": [
+              {
+                "name": "Axios",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Portfolio example",
+          "description": "It´s an example of portfolio with Bootstrap",
+          "URL": "https://github.com/DiegoTMillan/Reto-Portfolio"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-04-01",
+            "finishDate": "2022-05-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Code Space Bootcamp",
+        "startDate": "2022-02-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "Code Space",
+          "description": "During this bootcamp I have participated in individual and group activities, using different programming languages. The bootcamp finishes with a project with a frontend and backend fully operating.Actividades y grupos: During this bootcamp I have participated in individual and group activities, using different programming languages. The bootcamp finishes with a project with a frontend and backend fully operating.\nIt's an intensive 5 month intensive bootcamp where you learn the basic knowledge to become in a junior full stack web developer, using languages and tecnologies as HTML, CSS, Bootstrap, JS, React, symfony, php, node.js, mysql, mongodb, docker.",
+          "image": {
+            "alt": "VPzB4ral_400x400.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/996bb06f-9023-4cd8-9289-be527c62aaa8_vpzb4ral_400x400.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "PHPMyAdmin",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Symfony",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Health and safety",
+        "startDate": "2017-09-01",
+        "finishDate": "2018-03-01",
+        "institution": {
+          "name": "Mancomunidad de municipios de la costa del sol occidental",
+          "description": "50h of a curse about health and safety on-line.",
+          "image": {
+            "alt": "mancomunidad.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/0456fefd-1d7c-47f1-b35c-058b06b3dc09_mancomunidad.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Physiotherapist",
+        "startDate": "2004-09-01",
+        "finishDate": "2007-06-01",
+        "institution": {
+          "name": "Malaga University",
+          "description": "A 3 years degree. At Malaga University.",
+          "image": {
+            "alt": "marca doble-1v2.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/23/38f4089a-1715-453e-afe8-32d92d58acbd_marca-doble-1v2.jpg"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
